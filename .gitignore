@@ -16,6 +16,5 @@ npm-debug.log
 /.idea
 
 #webpack dist
-/build/*.js
-/build/*.js.map
+/build
 /deploy
